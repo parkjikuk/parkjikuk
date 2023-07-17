@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ParkJikuk&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=ParkJikuk&fontSize=70)
 
 <div align=center>
   🤚🏻안녕하세요 풀스택 개발자 박지국입니다.
